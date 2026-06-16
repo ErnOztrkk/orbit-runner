@@ -1,4 +1,3 @@
-Gezegen Koşucusu
 <!DOCTYPE html>
 <html>
 <head>
